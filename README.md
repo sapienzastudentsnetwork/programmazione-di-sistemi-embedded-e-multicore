@@ -2,6 +2,6 @@
 ---
 ## 👋 Introduzione al forum
 
-ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Programmazione Multicore assegnati, a lezione e nei testi d'esame, dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
+ℹ️ Lo scopo di questo repository GitHub è lo scambio e il confronto di Soluzioni ad Esercizi di Programmazione Multicore assegnati a lezione dai professori dell'insegnamento presso il Corso di Laurea Triennale in Informatica di Sapienza Università di Roma
 
 💬 Nel forum realizzato attraverso questo repository potrai dunque trovare (e possibilmente confermare) soluzioni proposte da altri studenti o anche condividere e ricevere un feedback in merito alle tue!
