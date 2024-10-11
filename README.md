@@ -17,6 +17,7 @@ In questi forum chiunque può contribuire aggiungendo non solo proposte di soluz
 Attualmente, questo forum è gestito dai seguenti colleghi:
 - Elia **Belli** ([@Elia-Belli](https://github.com/Elia-Belli))
 - Ionut **Cicio** ([@CuriousCI](https://github.com/CuriousCI)) [[Telegram](https://telegram.me/CuriousCI)]
+- Leonardo **Biason** ([@ElBi21](https://github.com/ElBi21)) [[Telegram](https://telegram.me/ElBi21)]
 
 Grazie mille in anticipo per il tuo contributo 🙌
 
