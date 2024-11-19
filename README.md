@@ -24,3 +24,4 @@ Grazie mille in anticipo per il tuo contributo 🙌
 ## 📖 Esercizi per Categoria
 - [MPI](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore/discussions?discussions_q=is%3Aopen+label%3AMPI)
 - [Pthread](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore/discussions?discussions_q=is%3Aopen+label%3APthread)
+- [OpenMP](https://github.com/sapienzastudentsnetwork/programmazione-di-sistemi-embedded-e-multicore/discussions?discussions_q=is%3Aopen+label%3AOpenMP)
