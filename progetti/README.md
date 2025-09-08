@@ -10,7 +10,7 @@ Nel caso di un progetto sia disponibile solo il PDF, questo sarà disponibile in
 >
 > Ad esempio, se Mario Rossi e Alberto Bianchi hanno fatto il progetto K-means, il nome del report sarà `[Kmeans] Rossi, Bianchi.pdf`, e il submodule della repo sarà `[Kmeans] Rossi, Bianchi @ <hash_commit>`
 
-<table style="text-align: center;">
+<table align="center">
     <tr>
         <th>Progetto</th>
         <th>Sviluppatori</th>
