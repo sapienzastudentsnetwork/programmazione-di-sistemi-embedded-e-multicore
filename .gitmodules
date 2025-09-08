@@ -1,0 +1,6 @@
+[submodule "progetti/[Kmeans] Biason, Romania"]
+	path = progetti/[Kmeans] Biason, Romania
+	url = https://github.com/ElBi21/PSEM-Kmeans.git
+[submodule "progetti/[Wind] Cicio"]
+	path = progetti/[Wind] Cicio
+	url = https://github.com/CuriousCI/wind
