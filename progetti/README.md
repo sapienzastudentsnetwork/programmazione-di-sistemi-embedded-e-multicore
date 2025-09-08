@@ -18,15 +18,15 @@ Nel caso di un progetto sia disponibile solo il PDF, questo sarà disponibile in
         <th>Repository con Codice</th>
     </tr>
     <tr>
-        <td>K-means</td>
-        <td>Leonardo Biason<br>Alessandro Romania</td>
-        <td>✓</td>
-        <td>✓</td>
+        <td align="center">K-means</td>
+        <td align="center">Leonardo Biason<br>Alessandro Romania</td>
+        <td align="center">✓</td>
+        <td align="center">✓</td>
     </tr>
     <tr>
-        <td>Wind</td>
-        <td>Ionut Cicio</td>
-        <td>✓</td>
-        <td>✓</td>
+        <td align="center">Wind</td>
+        <td align="center">Ionut Cicio</td>
+        <td align="center">✓</td>
+        <td align="center">✓</td>
     </tr>
 </table>
