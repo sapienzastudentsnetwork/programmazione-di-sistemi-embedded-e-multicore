@@ -65,10 +65,13 @@ for(int i = 1; i < N; i++){
 
 * What are memory banks? When do we have bank conflicts and bank broadcast?
 * When does it make sense to disable L1 cache in CUDA?
-* Why does false sharing not happen in CUDA?
+* Why is there no false sharing on GPU?
 * Write a CUDA kernel which sums two arrays.
 * Write a CUDA kernel which multiplies two arrays.
 * What does it mean that memory accesses are coalesced?
+* When do bank conflicts happen on CUDA?
+* What is the more convenient on GPU, Array of Structs or Struct of Arrays?
+* How does `cudaMemcpy()` work between CPU and GPU?
 
 ### Pthread
 
